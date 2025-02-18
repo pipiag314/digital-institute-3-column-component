@@ -1,59 +1,62 @@
 body {
-    margin: 0;
-    padding: 88px 24px;
-    box-sizing: border-box;
+  margin: 0;
+  padding: 88px 24px;
+  box-sizing: border-box;
 }
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .sedans-section {
-    border-radius: 8px 8px 0 0;
-    background-color: #E28625;
-    padding: 50px;
-    box-sizing: border-box;
+  border-radius: 8px 8px 0 0;
+  background-color: #e28625;
+  padding: 50px;
+  box-sizing: border-box;
 }
 .suvs-section {
-    background-color: #006971;
-    padding: 50px;
-    box-sizing: border-box;
+  background-color: #006971;
+  padding: 50px;
+  box-sizing: border-box;
 }
 .luxury-section {
-    border-radius: 0 0 8px 8px;
-    background-color: #004140;
-    padding: 50px;
-    box-sizing: border-box;
+  border-radius: 0 0 8px 8px;
+  background-color: #004140;
+  padding: 50px;
+  box-sizing: border-box;
 }
 
 .section-title {
-    margin-top: 35px;
-    color: #f2f2f2;
-    font-size: 40px;
-    font-weight: 700;
+  margin-top: 35px;
+  color: #f2f2f2;
+  font-size: 40px;
+  font-weight: 700;
+  font-family: "Big Shoulders Display", sans-serif;
 }
 
 .section-text {
-    margin-top: 25px;
-    color: #ffffff;
-    font-size: 15px;
-    font-weight: 400;
-    line-height: 25px;
+  margin-top: 25px;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 25px;
+  font-family: "Lexend Deca", sans-serif;
 }
 
 .section-btn {
-    margin-top: 25px;
-    padding: 12px 32px;
-    border-radius: 25px;
-    font-size: 15px;
-    font-weight: 400;
-    border: none;
-    box-sizing: border-box;
-    cursor: pointer;
+  margin-top: 25px;
+  padding: 12px 32px;
+  border-radius: 25px;
+  font-size: 15px;
+  font-weight: 400;
+  border: none;
+  box-sizing: border-box;
+  cursor: pointer;
+  font-family: "Lexend Deca", sans-serif;
 }
 
 .section-btn:hover {
-    outline: 3px solid #fff;
-    background-color: transparent;
-    color: #fff;
+  outline: 3px solid #fff;
+  background-color: transparent;
+  color: #fff;
 }
